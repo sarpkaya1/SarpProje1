@@ -9,6 +9,7 @@ public class IkPersonel {
     void run(String isim){
         System.out.println(mevkii + isim +  yas  + kullandigiProgram + "  kullanmaktadır" + toplamTecrube + " Yıl çalışmıştır");
 
+
     }
 
 
