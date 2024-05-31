@@ -16,6 +16,7 @@ public class MuhasebeProje {
         }else{
             System.out.println(isim + "Kişisi" + normalUcret + " TL maaş almıştır.");
 
+
         }
 
     }
